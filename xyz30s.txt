@@ -1,0 +1,534 @@
+cluster 0 :
+	Excel Id# 97 Roll# 0 : Error 605-The batches are not defined for delivery item 000010 in delivery
+	Excel Id# 190 Roll# 1 : missing pallet pallet space and gross weight data in delivery with error No register defined in ZVGSPVV136 for this
+	Excel Id# 220 Roll# 2 : Error found when changing delivery by loading point 02 for plant
+	Excel Id# 222 Roll# 3 : delivery creation throws error item category not determined
+	Excel Id# 292 Roll# 4 : Error message when trying to goods receipt those packaging return deliveries 
+	Excel Id# 488 Roll# 5 : Unable to create a Delivery for Subcontracting process wherein she was encountering an error message which read Essential Transfer Parameters are missing in the record 000001
+cluster 1 :
+	Excel Id# 1 Roll# 0 : Maintain Table T630R for given routes
+	Excel Id# 4 Roll# 1 : Stop given background jobs for a day
+	Excel Id# 7 Roll# 2 : Assign shipping point to plant
+	Excel Id# 8 Roll# 3 : Document is credit blocked during creation
+	Excel Id# 13 Roll# 4 : Monthly clearing virtual stock is not possible using YVV0058_CLRTRANS
+	Excel Id# 15 Roll# 5 : price validity dates are not getting loaded correctly into the table ZVSKPSQL_PRICELI using the program ZVSKPSQL_EXP_PRICELIST
+	Excel Id# 19 Roll# 6 : Available stock is not allocated the document in MD04 during creation
+	Excel Id# 20 Roll# 7 : explain route determination process
+	Excel Id# 24 Roll# 8 : output type is not determined automatically in document
+	Excel Id# 27 Roll# 9 : upload route using ZV_ROUTE_UPLOAD
+	Excel Id# 30 Roll# 10 : cancel shipment cost using ZVGSPVVBGST
+	Excel Id# 32 Roll# 11 : unable to export report ZV_REBATE_REPORT to spreadsheet
+	Excel Id# 36 Roll# 12 : Cannot upload a file in LSMW
+	Excel Id# 38 Roll# 13 : Wrong price value is displayed in output type
+	Excel Id# 40 Roll# 14 : ZV_Rebate_report is showing wrong value in Cond.Value column
+	Excel Id# 49 Roll# 15 : Wrong layout for output type ZG20
+	Excel Id# 51 Roll# 16 : Reallocation not working and job cancelled
+	Excel Id# 72 Roll# 17 : Number of drums is not printed on the output type of shipment
+	Excel Id# 76 Roll# 18 : output type determination not happening due to meduim
+	Excel Id# 78 Roll# 19 : unable to batch via code ZVPRLIST02_UPLD
+	Excel Id# 79 Roll# 20 : transaction code VFX3 timed out
+	Excel Id# 83 Roll# 21 : Is it possible to enter different pricing discounts for different plants for condition type ZR05
+	Excel Id# 84 Roll# 22 : schedule background jobs
+	Excel Id# 95 Roll# 23 : change factory calendar for route
+	Excel Id# 99 Roll# 24 : modify transportation planning point
+	Excel Id# 104 Roll# 25 : stop given background job permanently
+	Excel Id# 107 Roll# 26 : Background job is failing
+	Excel Id# 109 Roll# 27 : document is locked by the user
+	Excel Id# 112 Roll# 28 : maintain table ZVSKPCAS_VMI_DEF
+	Excel Id# 113 Roll# 29 : Can print only 1 copy of output but not 3 copies
+	Excel Id# 117 Roll# 30 : unlock the LOCL output device
+	Excel Id# 121 Roll# 31 : modify shipping point
+	Excel Id# 124 Roll# 32 : modify item category determination
+	Excel Id# 131 Roll# 33 : ZVREPRINT transaction code printer locked is appearing while using LOCL as output device
+	Excel Id# 141 Roll# 34 : No items with zero price appears on output type ZA30
+	Excel Id# 142 Roll# 35 : Name of the creator which appears on all outputs needs to be changed from to
+	Excel Id# 143 Roll# 36 : cannot trigger output type ZAZB manually
+	Excel Id# 147 Roll# 37 : Transaction ZVGSPWOI0033 is not working properly
+	Excel Id# 149 Roll# 38 : output type ZZBL cannot be triggered in a shipment
+	Excel Id# 150 Roll# 39 : change pick/pack time for shipping point
+	Excel Id# 158 Roll# 40 : rebate accrual is not calculated correctly
+	Excel Id# 159 Roll# 41 : required dates are not appearing in shipment output
+	Excel Id# 160 Roll# 42 : SAP dumps when uploading excel sheet using transaction code ZV_COND_REC
+	Excel Id# 161 Roll# 43 : Document was not picked by background job
+	Excel Id# 162 Roll# 44 : reschedule background job
+	Excel Id# 166 Roll# 45 : Converter does not work for any customer or contract
+	Excel Id# 170 Roll# 46 : change factory calendar for shipping point
+	Excel Id# 173 Roll# 47 : Cannot set shipment completion status
+	Excel Id# 188 Roll# 48 : we didn t receive Fax-documents via our system Tangro
+	Excel Id# 194 Roll# 49 : Rebate is not accruing
+	Excel Id# 199 Roll# 50 : cannot print out document
+	Excel Id# 200 Roll# 51 : YVMARS01 failed under memory not enough dump on some days
+	Excel Id# 213 Roll# 52 : output type should not be triggered automatically
+	Excel Id# 216 Roll# 53 : Notes aren't shown on document
+	Excel Id# 224 Roll# 54 : how to modify customer hierarchy
+	Excel Id# 238 Roll# 55 : Wrong language is triggering in output type for document
+	Excel Id# 241 Roll# 56 : Modify table YLGSATP
+	Excel Id# 242 Roll# 57 : Cancelled credit note by mistake
+	Excel Id# 245 Roll# 58 : Background job is taking more time to complete
+	Excel Id# 251 Roll# 59 : Program YVVCPG_FM_MOBILE_CUSTOMERS that runs each night to extract list of Customers to a csv file isn't extracting ship to locations for Customer for a few days
+	Excel Id# 254 Roll# 60 : Background job failed with message no output device mentioned in user master data
+	Excel Id# 258 Roll# 61 : Problem with updating billing documents in VBOF transaction
+	Excel Id# 259 Roll# 62 : Background job is not sending flat file to the vendor for a few days
+	Excel Id# 260 Roll# 63 : Background job is failing due to locks
+	Excel Id# 263 Roll# 64 : Activate extended rebate for the agreement type
+	Excel Id# 265 Roll# 65 : Blank forwarding agent in transaction code VL06
+	Excel Id# 266 Roll# 66 : Add entries to table ZVSD_PARM
+	Excel Id# 269 Roll# 67 : maintain storage location determination
+	Excel Id# 273 Roll# 68 : multiple failed updates RV_MESSAGE_UPDATE are observed for user
+	Excel Id# 274 Roll# 69 : shipment completion isn't automatically being set for shipment type for a few months
+	Excel Id# 278 Roll# 70 : transaction code VB03 timed Out
+	Excel Id# 283 Roll# 71 : maintain automatic picking in shipping point
+	Excel Id# 289 Roll# 72 : Activate user exit
+	Excel Id# 290 Roll# 73 : Modify table YLGSATP for given entries
+	Excel Id# 293 Roll# 74 : Maintain entry in table ZVACCGRP_NRRANGE
+	Excel Id# 294 Roll# 75 : In output type condition type should not printed on the documents
+	Excel Id# 296 Roll# 76 : report P92-LEDE-OUTDLV-A-LZO-RSNAST00 / Table YLE_LZO_ZA7Z is not working fine
+	Excel Id# 299 Roll# 77 : EDI background job is failing
+	Excel Id# 300 Roll# 78 : how to identify the the log for transaction VB11 & VB12
+	Excel Id# 302 Roll# 79 : SFTP access between OPAL and Heidelberg does not work
+	Excel Id# 307 Roll# 80 : Shipping condition 11 shouldn't be able to transfer from SAP to TMS
+	Excel Id# 308 Roll# 81 : PGI did not automatically trigger when shipment completion was marked
+	Excel Id# 309 Roll# 82 : Why does background job have an upper limit for running
+	Excel Id# 310 Roll# 83 : Maintain activity profile table ZVACTPRF
+	Excel Id# 311 Roll# 84 : converter doesn't work for any contract and customer
+	Excel Id# 315 Roll# 85 : maintain item category determination
+	Excel Id# 316 Roll# 86 : modify table ZVG_PARAM_PDF
+	Excel Id# 319 Roll# 87 : add entries to table ZVG_SKP_PRICING
+	Excel Id# 334 Roll# 88 : The batch tab is not getting populated while posting GR
+	Excel Id# 339 Roll# 89 : PIR's total price and Net price is not matched in SAP_Ref # PIR-MA7038
+	Excel Id# 341 Roll# 90 : overlapping of text for PO print 
+	Excel Id# 344 Roll# 91 : PO Message transmission wrong output condition
+	Excel Id# 348 Roll# 92 : the Scheduling Agreements for the plant 2100 not getting triggered automatically
+	Excel Id# 353 Roll# 93 : To maintain Document type ZXC between Plants
+	Excel Id# 355 Roll# 94 : Not able to upload freight cost as 125AUD per 1 ROL for condition type Z008 in the info record conditions
+	Excel Id# 362 Roll# 95 : VAT number wrongly displaying in the PO print
+	Excel Id# 363 Roll# 96 : Wrong unit of entry picking while posting GR
+	Excel Id# 372 Roll# 97 : Functionality of report YMASNREP 
+	Excel Id# 373 Roll# 98 : Discrepancy in reflecting correct IDH in BOM and transaction YM40
+	Excel Id# 374 Roll# 99 : Inconsistency in Quantity reflecting in SAP and BOM
+	Excel Id# 375 Roll# 100 : Details in ME1E versus ME1M does not match  In ME1E there is only one reference of price update  In ME1M there are more than one reference of price update
+	Excel Id# 379 Roll# 101 : PO confirmation mails not sending to external sender (vendor)
+	Excel Id# 385 Roll# 102 : user can't transfer stock to subcon stock 
+	Excel Id# 388 Roll# 103 : Functionality of transaction YM144
+	Excel Id# 389 Roll# 104 : To remove the entries from transaction YM74
+	Excel Id# 393 Roll# 105 : Unable to complete the few Challan on SAPP93 system on transaction j1ifr
+	Excel Id# 395 Roll# 106 : Reversing of GR with movement type 961
+	Excel Id# 403 Roll# 107 : Explained Functionality of transaction YMEB
+	Excel Id# 412 Roll# 108 : Tax code change requests in P92 system are failing when mass update is done
+	Excel Id# 489 Roll# 109 : User reported that the shipping notification in ME22N is incorrect they cannot modify the quantity from 8 to 4 in SAPP11
+	Excel Id# 496 Roll# 110 : IDOC was getting failed for GR Posting 
+cluster 2 :
+	Excel Id# 85 Roll# 0 : Unable to confirm post Goods issue in SAP P92 and the error message determined is “no accts maintained for company code clearing between comp. codes 1205 and 0842”
+	Excel Id# 125 Roll# 1 : Cannot perform post goods issue for delivery due to error “no accts maintained for company code clearing between comp. codes and ”
+	Excel Id# 127 Roll# 2 : Cannot perform post goods issue for a delivery due to error Table T619P entry 1200 does not exist
+	Excel Id# 217 Roll# 3 : cannot post goods issue due to error quantity in stock keeping unit is zero
+	Excel Id# 234 Roll# 4 : cannot perform post goods issue due to presence of batch management flag
+	Excel Id# 255 Roll# 5 : System throws ABAP dump while performing Post Goods Issue
+	Excel Id# 272 Roll# 6 : Cannot reverse Goods issue
+	Excel Id# 335 Roll# 7 : Good Receipt Posting issue for subcontracting material- Error Field overflow in routine WERT_SIMULIEREN in field NEUER_PREIS
+	Excel Id# 358 Roll# 8 : Printing labels issue for Goods Receipt wherein when executing the transaction ZC31 encountering a warning message which read NO Goods Receipt posted for the material. 
+	Excel Id# 394 Roll# 9 : User had an issue in reversing the material document of Goods Receipt posting for Subcontracting PO wherein he was encountering an error message Deficit of Stock in Unrestricted use.
+	Excel Id# 398 Roll# 10 : User has a query that whether the conversion relevance (12) of FG 2055494 and component 2002993 applicable in case of transfer posting or goods issue. 
+	Excel Id# 478 Roll# 11 : User had an issue in posting the Goods receipt wherein she was encountering an error message of Stock of the material xxxx xx doesn't exist
+cluster 3 :
+	Excel Id# 5 Roll# 0 : Activate the given fields for given sales org
+	Excel Id# 12 Roll# 1 : sales order gets DG blocked although A2 release exists in P03
+	Excel Id# 28 Roll# 2 : incorrect item category is determined for plant in sales order 
+	Excel Id# 33 Roll# 3 : Partner function XI is not appearing in Sales order type ZAST due partner determination configuration
+	Excel Id# 35 Roll# 4 : Route isn't determining in sales order due to missing shipping point determination configuration
+	Excel Id# 37 Roll# 5 : sales order not displaying in report ZVJES_ORDERS 
+	Excel Id# 56 Roll# 6 : transaction VA02 is going for a dump when accessing a sales order
+	Excel Id# 58 Roll# 7 : Assign order type to sales area
+	Excel Id# 63 Roll# 8 : Cannot remove billing block from sales order
+	Excel Id# 66 Roll# 9 : update pricing button in sales order is greyed out
+	Excel Id# 89 Roll# 10 : The rate as 70000 JPY for ZMOV maintained but the rate 7000 JPY ZMOF commission appeared automatically in the sales order
+	Excel Id# 119 Roll# 11 : manual condition type value is not copied from complaints sales order into invoice
+	Excel Id# 126 Roll# 12 : Storage location cannot be changed manually while creatng sales order
+	Excel Id# 129 Roll# 13 : Cannot change UOM from to in sales order
+	Excel Id# 133 Roll# 14 : In Quota concept via YVV0029 for STO on receiving Plant the Quota item 999-FFQ (Free floating Quota) should be available for all Sales Areas or STO-Plants
+	Excel Id# 140 Roll# 15 : ZMOV pricing condition type in sales orders are determined incorrectly
+	Excel Id# 153 Roll# 16 : need help in deleting sales order
+	Excel Id# 157 Roll# 17 : Sales orders are getting confirmed one day later than expected date for shipping point
+	Excel Id# 167 Roll# 18 : Bonus pricing condition type ZBON has 0 value in sales order
+	Excel Id# 168 Roll# 19 : Invoice block is automatically set in sales order
+	Excel Id# 169 Roll# 20 : need help in removing reason for rejection in sales order
+	Excel Id# 178 Roll# 21 : Net price isn't getting determined in sales order
+	Excel Id# 180 Roll# 22 : Manually changed pricing condition type's value is not getting copied from sales order to invoice
+	Excel Id# 185 Roll# 23 : Storage location isn't determined for sales order type for country
+	Excel Id# 202 Roll# 24 : why is sales order blocked with X8 order check block
+	Excel Id# 202 Roll# 25 : why is sales order blocked with X8 order check block
+	Excel Id# 223 Roll# 26 : cannot receive sales order over email due to incorrect email address in transaction SU3
+	Excel Id# 233 Roll# 27 : Need to know the reason for incorrect incoterm determination in sales order despite making correction in sold-to partie
+	Excel Id# 268 Roll# 28 : Cannot release billing block for sales order via transaction ZVGSPVVG1000
+	Excel Id# 271 Roll# 29 : creation of sales order triggers message factory calendar not found
+	Excel Id# 277 Roll# 30 : Remove sales org for plant in stock transfer order scenario
+	Excel Id# 285 Roll# 31 : sales org to scheduling agreement assignment
+	Excel Id# 304 Roll# 32 : why did confirmed quantity in sales order get unconfirmed later
+	Excel Id# 318 Roll# 33 : the signature for sales area X is incorrect 
+cluster 4 :
+	Excel Id# 10 Roll# 0 : cannot create delivery for a Purchase Order
+	Excel Id# 50 Roll# 1 : TransactionYVV0031_DEL_MONITOR Process Purchase Order ERROR - If for a UB-Stock transfer order item a partial Quantity is delivered and not fully the purchase order qty the Delivery Monitor does not show this PO item with the to be delivered and open qty
+	Excel Id# 184 Roll# 2 : cannot delivery full quantity ordered in Purchase order
+	Excel Id# 246 Roll# 3 : Purchase Order coming from SOP is created twice with same quantity and same Purchase Order number
+	Excel Id# 322 Roll# 4 : To clear the Purchase Requisition from MD04 screen
+	Excel Id# 329 Roll# 5 :  Transaction.ME2A -In purchase requisitions unable to attach multiple documents in single selection
+	Excel Id# 332 Roll# 6 :  Not able to create the Subcontracting Purchase order as BOM was not reflecting and throwing the error not possible to determine any components 
+	Excel Id# 336 Roll# 7 : Not able to mark the delivery completion indicator for line item 05 in the purchase order 
+	Excel Id# 345 Roll# 8 : Query why the purchase order has been created with manual PR instead of automatic PR through sales order 
+	Excel Id# 351 Roll# 9 : Query why IDH with status Y1 cannot create Purchase order 
+	Excel Id# 386 Roll# 10 : Not able to select the subcontracting challan while proceeding with MIGO for Purchase order
+	Excel Id# 387 Roll# 11 : User had a query wherien he asked as to why is the Purchase Order print out has captured the currency as USD whereas it should cappture the curency as EUR as maintained in the Purchasing Info Record
+	Excel Id# 481 Roll# 12 : User not able to transmit the purchase order 4530953690 successfully
+	Excel Id# 482 Roll# 13 : Purchase Orders not getting transmitted from Henkel 3580 location to the Vendor
+	Excel Id# 487 Roll# 14 : User asking why they receiving purchase order confirmation mails in P60 system
+	Excel Id# 498 Roll# 15 : Unable to create PO- Error Condition table missing Access Z002 I5(Output Purchase order)
+	Excel Id# 500 Roll# 16 : Auto Purchase Requisition not getting created
+	Excel Id# 502 Roll# 17 : User had an issue wherein he asked why the Purchase Requisition Currency was not getting captured in the Purchase Order
+cluster 5 :
+	Excel Id# 3 Roll# 0 : cannot cancel invoice
+	Excel Id# 6 Roll# 1 : document shows as due for billing in VF04 though invoice creation isn't necessary for it
+	Excel Id# 9 Roll# 2 : invoice shows as due for billing in VFX3 though accounting document creation isn't necessary for it
+	Excel Id# 3 Roll# 3 : cannot cancel invoice
+	Excel Id# 22 Roll# 4 : cannot release invoice to accounting
+	Excel Id# 22 Roll# 5 : cannot release invoice to accounting
+	Excel Id# 22 Roll# 6 : cannot release invoice to accounting
+	Excel Id# 41 Roll# 7 : Unable to save pdf output files for Invoice
+	Excel Id# 46 Roll# 8 : For some of the files pertaining to invoices payments and products have not been sent to business through SFTP
+	Excel Id# 47 Roll# 9 : Some customers who have been set up for VAT Exemption are still being charged VAT on their invoices
+	Excel Id# 53 Roll# 10 : update pricing button in invoice is greyed out
+	Excel Id# 61 Roll# 11 : unable to release the invoice to accounting
+	Excel Id# 62 Roll# 12 : MWST pricing condition type is not determined in invoice
+	Excel Id# 22 Roll# 13 : cannot release invoice to accounting
+	Excel Id# 75 Roll# 14 : update invoice number range in table ZVGSPVF01
+	Excel Id# 82 Roll# 15 : invoice output type is not displaying full name of the material description
+	Excel Id# 91 Roll# 16 : invoice has incorrect MWST value
+	Excel Id# 100 Roll# 17 : In print output for output type X condition type Y should be printed for each single item of the invoice
+	Excel Id# 118 Roll# 18 : The accounting document number needs to be same as invoice document number
+	Excel Id# 144 Roll# 19 : Incorrect gross weight appears on invoice output type
+	Excel Id# 151 Roll# 20 : print actual GI date as delivery date on invoice output
+	Excel Id# 163 Roll# 21 : How to configure an invoice output type ZO33 to send email to customer
+	Excel Id# 164 Roll# 22 : Footer data of an invoice is incorrect
+	Excel Id# 172 Roll# 23 : How is payment terms being determined in invoice
+	Excel Id# 204 Roll# 24 : cannot re-print output type of invoice without making a copy
+	Excel Id# 219 Roll# 25 : GLSN is wrongly determined in invoice
+	Excel Id# 221 Roll# 26 : delivery is showing as being processed even after PGI and invoice creation
+	Excel Id# 264 Roll# 27 : cannot release invoice to accounting due to missing account determination
+	Excel Id# 280 Roll# 28 : Change the configuration so that invoice list can be generated based on bill to party and not on payer
+	Excel Id# 313 Roll# 29 : Freight charge should be shown on the invoices separately not included to the total amount
+	Excel Id# 320 Roll# 30 : Invoices should include VAT amount mentioned in EUR
+	Excel Id# 448 Roll# 31 : PO deletion Issue- Invoices pending for delivery costs (function not possible)
+	Excel Id# 480 Roll# 32 : User had a query wherein he asked as to why the Invoice amount in the PO for line item 1 is only 2959.6 USD whereas it should be around 10005 USD
+cluster 6 :
+	Excel Id# 52 Roll# 0 : We have an issue with the print out of the sales order (Output type ZNO1). The prices are not appearing in the layout
+	Excel Id# 54 Roll# 1 : invoices are showing the round difference 2 (YUR2) as a separate line showing as sub-total and they are also showing the discount percentage and it should only show the name of the discount. 
+	Excel Id# 57 Roll# 2 : Document is fulfilled. Please investigate why this remains open in MD04
+	Excel Id# 64 Roll# 3 : invoice is not printing text correctly. It is missing the reference to customer Declaration number.
+	Excel Id# 73 Roll# 4 : I have report VL06 but I don t have forwarding agent and forwarding agent name. These cells are empty.
+	Excel Id# 96 Roll# 5 : pricing issue with export declarations in SAP P92 (problem can be seen in transactions VA03 VF03). Documents cannot be created with correct pricing. IC pricing in OTC processes affected.
+	Excel Id# 116 Roll# 6 : Cannot see print preview for output ZG21 even after it shows as processed. Also output ZG72 shows as processed but it is composed of the 1st page only without a delivery
+	Excel Id# 137 Roll# 7 : Picing condition ZIPC is not upload-able. Please advice how it is being generated. Can you advice what is condition category - Standard cost This is not in ZE00. Does it mean that ZIPC is derived from Material master MM03 Costing 2 Standard price field 
+	Excel Id# 138 Roll# 8 : Fixed Value date not appearing in Invoice. Need to do the TMG for table ZVGSPVF02 to maintain entries in table
+	Excel Id# 253 Roll# 9 : Shipment creation triggers a data transfer to our external warehouse provider. Time stamp is incorrect
+	Excel Id# 321 Roll# 10 : Unable to Post GR-Error Excise modvat accounts not defined for GRPO transaction and KE excise group.
+	Excel Id# 328 Roll# 11 : Excise tab not populating while doing Goods receipt.
+	Excel Id# 356 Roll# 12 : To download Info Records corresponding to particular plant and Vendor combination in P92 system which should include the LONG TEXT along with IDH and Description as a minimum. 
+	Excel Id# 359 Roll# 13 : Consignment issue reason for no ZAB order created.
+	Excel Id# 366 Roll# 14 : Query why a PO is getting displayed in the MD04 but there is no display of the Available Quantity corresponding to that reference PO.
+	Excel Id# 371 Roll# 15 : Return order showed two lines in the system while there is only one line of real return stock. Steps to remove one line item
+	Excel Id# 381 Roll# 16 : The field Manuf. Date/BBD is not appearing while doing the GR for plant 1310 
+	Excel Id# 382 Roll# 17 : User had a query why the PR is not getting captured in EKPO table though the PO is created out of PR. 
+	Excel Id# 384 Roll# 18 : Message output of scheduling agreement not displayed via transaction ME9L.
+	Excel Id# 475 Roll# 19 : User asked the quey that why VAT No. issue in the Info Record coming Wrong
+	Excel Id# 476 Roll# 20 : user want to know why in SAP system the component consuming more pcs than we produce. For example for the order 1687500 we will produce 11340pcs and SAP system show that we will consume 11351pcs. That's why we have more pcs than in SAP”
+	Excel Id# 501 Roll# 21 : While converting PR to PO via MD04 it is picking default doc type “EUB DFPS Int. Ord Type” instead of Doc type UB.
+cluster 7 :
+	Excel Id# 411 Roll# 0 : Subcontracting Purchase Order creation issue - No Info Record found for the material in plant and Components cannot be determined
+	Excel Id# 414 Roll# 1 : Purchase Order Issue - Deletion of Purchase Order from MD04
+	Excel Id# 427 Roll# 2 : Purchase Order deletion issue - Vendor XXXXXXXX is not assigned to plant
+	Excel Id# 433 Roll# 3 : Quantity issue - Issue in quantity display in Purchase Order and MD04
+	Excel Id# 435 Roll# 4 : Delivery creation issue - Vendor XXXXXX not created for Purchasing Organization XXXX
+	Excel Id# 442 Roll# 5 : Purchase Order creation issue - Wrong Delivery Date getting calculated in the Purchase Order
+	Excel Id# 452 Roll# 6 : Purchase Order creation issue - Purchase Order has Sales Unit rather than CON
+	Excel Id# 454 Roll# 7 : Info Record issue - Vendor Material number appearing in the Purchase Order
+	Excel Id# 457 Roll# 8 : Subcontracting Purchase Order creation issue - POs are getting created with multiple line items when created from SOP program (transaction YC492 )
+	Excel Id# 461 Roll# 9 : Date of Manufacture issue - Date of manufacture and Expiration Date is missing in MIGO while processing purchase order
+	Excel Id# 465 Roll# 10 : Purchase Order deletion issue - Requisition quantity 460 CON open again
+	Excel Id# 468 Roll# 11 : STO Purchase Order creation issue - Not possible to determine Shipping Point for item 0001
+	Excel Id# 474 Roll# 12 : PR issue in MD04 - Vendor number not pulling into purchase requisition
+cluster 8 :
+	Excel Id# 21 Roll# 0 : why is a packing material coming as a separate line item in delivery
+	Excel Id# 43 Roll# 1 : how to fix a material with archived status
+	Excel Id# 128 Roll# 2 : Activate below fields in material's additional data tab
+	Excel Id# 171 Roll# 3 : shipment output type doesn't print material expiry date for some customers
+	Excel Id# 187 Roll# 4 : Remove batch indicator flag from material master
+	Excel Id# 228 Roll# 5 : ATP for materials is not working as expected
+	Excel Id# 275 Roll# 6 : Cannot modify item category for material in document
+	Excel Id# 276 Roll# 7 : Cannot complete picking in delivery X as it throws the message The required picked Qty for material is 
+	Excel Id# 325 Roll# 8 : Extra UOM for BAG in material master
+	Excel Id# 327 Roll# 9 : Unable to create the delivery- wrong material status
+	Excel Id# 331 Roll# 10 : Not able to cancel material document due to stock posted in quality and moved to unrestricted by acceptance of usage decision
+	Excel Id# 343 Roll# 11 : Not able to change the CC Physical Indicator as A in material master for material at plant
+	Excel Id# 349 Roll# 12 : Not able to add material pallets on return Delivery Note 
+	Excel Id# 350 Roll# 13 : No inventory stock reflecting for materials after done the GR aganist PO 
+	Excel Id# 360 Roll# 14 : Unable to post GR against delivery-Error Material does not exists in warehouse
+	Excel Id# 396 Roll# 15 : Material not being displayed in transaction YM144
+	Excel Id# 406 Roll# 16 : User not able to create batch for material 2201734 for plant SJ19 with transaction MSC1N
+	Excel Id# 490 Roll# 17 : For vendors# 1018241 & 436184 ; material 2045982 Plant 3597 there is no monthly forecast data reflecting in the report of transaction YMC00002
+	Excel Id# 494 Roll# 18 : To able/disable the batch management for materail and plant in Material master (Purchasing view)
+	Excel Id# 497 Roll# 19 : Removing stock of material from MD04- Stock in transfer exists in MD04
+cluster 9 :
+	Excel Id# 86 Roll# 0 : carrier partner doesn't display in delivery's output until shipment is created
+	Excel Id# 87 Roll# 1 : cannot create delivery
+	Excel Id# 122 Roll# 2 : IDOC failed to create shipment for delivery
+	Excel Id# 205 Roll# 3 : delivery cannot be created for a material due to its status
+	Excel Id# 87 Roll# 4 : cannot create delivery
+	Excel Id# 229 Roll# 5 : Deliveries are created before material availability date for shipping point by background jobs
+	Excel Id# 236 Roll# 6 : Delivery cannot be created for a material in a plant between two storage location
+	Excel Id# 257 Roll# 7 : Cannot create delivery using transaction VL10B
+	Excel Id# 267 Roll# 8 : cannot create delivery for item category
+	Excel Id# 281 Roll# 9 : Background job that creates shipment takes carrier from delivery instead of from the variant
+	Excel Id# 286 Roll# 10 : Cannot create delivery in plant with batch split determination because the subitem position created wth 900001 - 900002 are not allowed
+	Excel Id# 291 Roll# 11 : shipment is not created automatically for delivery
+	Excel Id# 291 Roll# 12 : shipment is not created automatically for delivery
+	Excel Id# 369 Roll# 13 : Unable to create subcontracting delivery through ME2O-Error Essential transfer parameter are missing in record 000001 
+	Excel Id# 400 Roll# 14 : User had an issue in creating Subcontracting Delivery in ME2O wherein he reported Shipping Point assignment was missing
+	Excel Id# 499 Roll# 15 : User unable to create delivery for PO 4531001717 in P62 system
+cluster 10 :
+	Excel Id# 208 Roll# 0 : cannot perform post goods issue in for a material due to sales unit
+	Excel Id# 210 Roll# 1 : cannot perform post goods issue for material due to status
+	Excel Id# 346 Roll# 2 : unable to print the Material Document of Goods Receipt
+	Excel Id# 408 Roll# 3 : Goods Receipt posting issue - Material Master flagged for deletion at the plant level
+	Excel Id# 424 Roll# 4 : Goods Receipt issue - Material is not created / extended for Storage location
+	Excel Id# 429 Roll# 5 : Goods Receipt issue - PL Stock in Transit for the material XXXXXX in plant XXXX exceeded by 0.012 CON
+	Excel Id# 439 Roll# 6 : Batch issue in Goods Receipt - No Batch colum for material at the time of posting Goods Receipt
+	Excel Id# 455 Roll# 7 : Goods Receipt for Consignment PO issue - Info Record for the material is missing for the Purchasing Organization XXXX
+	Excel Id# 469 Roll# 8 : Goods Receipt posting issue - PU Withdrawn quantity exceeded by 500 CON  XXXXXX (material) XXXX (plant) XXXX (Sloc) XXXXXXXXXXX (Batch)
+cluster 11 :
+	Excel Id# 55 Roll# 0 : invoice cannot be created for a sales order due to error item category cannot be invoiced with billing type 
+	Excel Id# 155 Roll# 1 : Cannot release vendor invoice to accounting due to error price date could not be determined
+	Excel Id# 177 Roll# 2 : printing of export invoice triggers error missing export data
+	Excel Id# 196 Roll# 3 : pricing error in invoice due to incorrect tax id
+cluster 12 :
+	Excel Id# 101 Roll# 0 : not able to do GR for STO PO 4370180109 as they are getting error message deficit of stock for 0003 CON
+	Excel Id# 130 Roll# 1 : Inbound orders are failing with error due to material deermination
+	Excel Id# 218 Roll# 2 : Background job is failing with error No fiscal year variant specified
+	Excel Id# 230 Roll# 3 : Background job is failing with error No fiscal year variant is specified
+	Excel Id# 244 Roll# 4 : Background job is failing with error COLLECT_OVERFLOW_TYPE_P
+	Excel Id# 261 Roll# 5 : Background job is failing with error message MESSAGE_TYPE_UNKNOWN
+	Excel Id# 312 Roll# 6 : unable to process a rebate payment on an agreement because of the error there are open documents relevant for accrual
+	Excel Id# 323 Roll# 7 : Unable to create PO- Error system error (error in method PO-POST) 
+	Excel Id# 361 Roll# 8 : while executing the transaction ZME2 for IDH and Plant throwing the error Company code is not defined in P93 system
+	Excel Id# 367 Roll# 9 : Unable to access material Locking error
+	Excel Id# 380 Roll# 10 : Unable to post the GR- Error Purchasse order does not contain any selectable items
+	Excel Id# 397 Roll# 11 : Unable to reverse the GR- Error Deficit of SL unrestricted use 66 CON
+	Excel Id# 417 Roll# 12 : Unable to create STO- Error Source not included in list despite source list requirement 
+cluster 13 :
+	Excel Id# 0 Roll# 0 : ZG2S output is not processed until delivery document is saved in change mode
+	Excel Id# 14 Roll# 1 : Delivery is not relevant for picking
+	Excel Id# 16 Roll# 2 : Double quantity in Delivery
+	Excel Id# 25 Roll# 3 : Explain the settings that determine pallet automatically in delivery
+	Excel Id# 42 Roll# 4 : Ship-to address doesn't display in language on delivery note 
+	Excel Id# 59 Roll# 5 : Label cannot be printed for a delivery
+	Excel Id# 81 Roll# 6 : wrong data on delivery
+	Excel Id# 94 Roll# 7 : During delivery creation got message that number range has only a few numbers left
+	Excel Id# 102 Roll# 8 : Change the status of delivery at table level
+	Excel Id# 110 Roll# 9 : steps for deleting incorrect delivery
+	Excel Id# 114 Roll# 10 : delivery notes in OTM do not have loading point 02 or ZTM5 delivery output automatically
+	Excel Id# 132 Roll# 11 : Picking list output is not getting triggered automatically for delivery
+	Excel Id# 139 Roll# 12 : Output ZAZB for delivery is successfully proceed but the mail is not triggered to YSOST
+	Excel Id# 145 Roll# 13 : Cannot reverse PGI in replenishment delivery
+	Excel Id# 114 Roll# 14 : delivery notes in OTM do not have loading point 02 or ZTM5 delivery output automatically
+	Excel Id# 152 Roll# 15 : Delivery notes do not print when shipment completion is marked
+	Excel Id# 165 Roll# 16 : The delivery output ZTM5 did not generate automatically for shipping point
+	Excel Id# 181 Roll# 17 : DG data is not getting printed in deliveries with shipping condition
+	Excel Id# 186 Roll# 18 : The batch remains in lower case in delivery
+	Excel Id# 198 Roll# 19 : Why is delivery date getting changed automatically to a date in past
+	Excel Id# 225 Roll# 20 : During the truck loading stage HU not assigned to delivery comes up when the truck loader scanned the HU barcode 
+	Excel Id# 226 Roll# 21 : Delivery creation not possible for item category
+	Excel Id# 231 Roll# 22 : Output is not getting printed automatically during delivery creation
+	Excel Id# 240 Roll# 23 : Delivery note is getting printed without DG text
+	Excel Id# 247 Roll# 24 : Picking and packing isn't working for delivery
+	Excel Id# 249 Roll# 25 : delivery show message Batches / valuation types not comp in incompletion
+	Excel Id# 287 Roll# 26 : While delivery creation 02 loading point is not getting transferred to the delivery
+	Excel Id# 314 Roll# 27 : cannot access delivery in change mode
+	Excel Id# 330 Roll# 28 : Query the delivery date in MD04 is different with delivery date in PO confirmation
+	Excel Id# 390 Roll# 29 : Excise values are coming incorrect for delivery no
+	Excel Id# 391 Roll# 30 : User had a query wherein she asked as to why is there no automatic creation of Inbound Delivery for the Outbound Delivery document for some STO Pos
+	Excel Id# 477 Roll# 31 : User wanted to know why delivery address was not picked at sub range level for partner OA in PO
+	Excel Id# 503 Roll# 32 : In P92 that the MRP results of components in 4090 has a wrong delivery date
+cluster 14 :
+	Excel Id# 212 Roll# 0 : cannot determine pallet in delivery due to item category determination issue
+	Excel Id# 421 Roll# 1 : Subcontracting Delivery issue - Wrong address of Ship-to-while creaing delivery in ME2O
+	Excel Id# 434 Roll# 2 : Delivery creation issue - An item with no Delivery quantity is not permitted. Item will be deleted
+	Excel Id# 438 Roll# 3 : Returns Delivery issue - Update Control of Movement Type 161 X X _ L is not possible
+	Excel Id# 458 Roll# 4 : Inbound Shipment creation issue - Unable to create Inbound Shipment Document in VT01N due to wrong Item Category determination in Inbound Delivery
+	Excel Id# 459 Roll# 5 : Delivery creation date issue - Delivery creation date is not appearing in the Shipping tab in STO PO
+	Excel Id# 460 Roll# 6 : Delivery creation date issue - Delivery creation date is not appearing in the Shipping tab in STO PO & Finding out table name - How to find table name from a field name in technical
+	Excel Id# 462 Roll# 7 : Inbound Delivery creation issue - Inbound Delivery cannot be created due to error message Delivery cannot be saved. Please check the incompleteness log
+	Excel Id# 472 Roll# 8 : Vendor Returns issue - Returns Delivery to vendor with Excise Invoice details
+cluster 15 :
+	Excel Id# 2 Roll# 0 : cannot create sales order for a material
+	Excel Id# 2 Roll# 1 : cannot create sales order for a material
+	Excel Id# 2 Roll# 2 : cannot create sales order for a material
+	Excel Id# 74 Roll# 3 : For a material there should be price YX00 listed but it is not in sales order
+	Excel Id# 106 Roll# 4 : output displays only one item even when the sales order had two items of the same material
+	Excel Id# 183 Roll# 5 : No item category could be determined for material in sales order
+	Excel Id# 192 Roll# 6 : In sales org sales orders are not getting created and the error message is Material in Sloc in plant not maintained
+	Excel Id# 206 Roll# 7 : Net price is wrongly determined as 0 in sales order for a material
+	Excel Id# 232 Roll# 8 : not able to create the sales order because for the reported material purchasing view has not been extended correctly
+	Excel Id# 288 Roll# 9 : The credit block background job is changing the schedule line date not as per material availability date for sales order
+	Excel Id# 306 Roll# 10 : cannot create sales order for material
+cluster 16 :
+	Excel Id# 29 Roll# 0 : ZHIC order check isn't working
+	Excel Id# 48 Roll# 1 : Order confirmation from many months ago is automatically retriggered now
+	Excel Id# 70 Roll# 2 : When using the VA02 a price determination will be done every time for all items and several times. 1.Time when I put in the order number and 2.Time when I am in the order and want to look something Automatically a new price determination for all items will be done again
+	Excel Id# 103 Roll# 3 : system is not calculating correct ZYNP values during order entry and it only calculates correctly while saving or while carrying out new pricing
+	Excel Id# 135 Roll# 4 : VPRS is not populating for this item although my master data expert is saying that in ME13 he sees a value maintained for Net Price. This is causing an incompletion log error on orders that may impact orders
+	Excel Id# 176 Roll# 5 : shipping data is not determined in stock transfer order
+	Excel Id# 284 Roll# 6 : SAP should throw an error during creation of delivery if ordered quantity in sales order is below minimum order quantity
+	Excel Id# 342 Roll# 7 : While converting PR to PO via ZME2 the order quantity unit is picking CON instead of PC
+cluster 17 :
+	Excel Id# 17 Roll# 0 : cannot create invoice
+	Excel Id# 26 Roll# 1 : Cannot create invoice even after the release of embargo block
+	Excel Id# 17 Roll# 2 : cannot create invoice
+	Excel Id# 77 Roll# 3 : Cannot create invoice for delivery due to issue with POD confirmation
+	Excel Id# 80 Roll# 4 : Invoice doesn't get created before PGI
+	Excel Id# 123 Roll# 5 : cannot create invoice due to missing mandatory condition type
+	Excel Id# 134 Roll# 6 : cannot create invoice for delivery
+	Excel Id# 134 Roll# 7 : cannot create invoice for delivery
+	Excel Id# 191 Roll# 8 : cannot create an export invoice
+	Excel Id# 195 Roll# 9 : cannot create invoice for document
+	Excel Id# 243 Roll# 10 : Getting different payer while creating an Intercompany Invoice
+	Excel Id# 279 Roll# 11 : Cannot create invoice
+	Excel Id# 298 Roll# 12 : Cannot create invoice for delivery due to issue with business place determination
+	Excel Id# 301 Roll# 13 : Not able to create remuneration list for ZAEX invoices
+cluster 18 :
+	Excel Id# 392 Roll# 0 : Unable to post GR - Error Material does not exist
+	Excel Id# 425 Roll# 1 : Info Record creation - Material XXXXXX is flagged for deletion in plant XXXX
+	Excel Id# 430 Roll# 2 : Transfer Posting issue - Transfer posting of material from Blocked stock to unrestricted use stock in Vendor Consignment
+	Excel Id# 436 Roll# 3 : Bill of Material issue - System could not copy the Sub-Items in this line
+	Excel Id# 440 Roll# 4 : Stock display issue - Stock difference in MD04 and MB51 material consumption values
+	Excel Id# 441 Roll# 5 : Purchase Requisition issue - Vendor not appearing to be linked with the material in MD04
+	Excel Id# 444 Roll# 6 : Bill of Material issue - System displays correct BOM along with additional components
+	Excel Id# 445 Roll# 7 : Bill of Material issue - Components provided by vendor to be displayed in the BOM in PO
+	Excel Id# 466 Roll# 8 : Stock-in-Transit issue - To remove Stock-in-Transit for a material from MB5T
+	Excel Id# 470 Roll# 9 : Batch Management issue - Material is not Batch Managed but system is asking to enter either of Date of Production or Shelf Life date
+cluster 19 :
+	Excel Id# 31 Roll# 0 : Cannot post goods issue in delivery without changing warehouse management status
+	Excel Id# 39 Roll# 1 : Cannot post goods issue in delivery
+	Excel Id# 44 Roll# 2 : need dangerous goods data to be printed in language in delivery note
+	Excel Id# 67 Roll# 3 : Cannot perform post goods issue for delivery
+	Excel Id# 93 Roll# 4 : User requested to do the picking and Post goods issue for the delivery 9130145268 as the subsequent shipment document is already set to complete
+	Excel Id# 105 Roll# 5 : cannot perform post goods issue in delivery because warehouse short picked quantity on delivery
+	Excel Id# 67 Roll# 6 : Cannot perform post goods issue for delivery
+	Excel Id# 201 Roll# 7 : cannot perform goods issue in delivery due to a block
+	Excel Id# 214 Roll# 8 : cannot perform goods issue in delivery due to cost center
+	Excel Id# 337 Roll# 9 : Unable to book Goods Receipt against an Inbound Delivery
+cluster 20 :
+	Excel Id# 45 Roll# 0 : cannot create partial deliveries for sales order
+	Excel Id# 60 Roll# 1 : cannot create delivery for a sales order
+	Excel Id# 69 Roll# 2 : cannot create invoice with reference to sales order
+	Excel Id# 88 Roll# 3 : cannot create standard invoice for sales order
+	Excel Id# 120 Roll# 4 : cannot create delivery for cross docking sales order
+	Excel Id# 156 Roll# 5 : cannot create a shipment for ZRIV sales order
+	Excel Id# 174 Roll# 6 : Sales order is not getting created due to missing pricing procedure
+	Excel Id# 175 Roll# 7 : cannot create delivery for sales order
+	Excel Id# 182 Roll# 8 : Sales order have 1 in the field Max.Partial.Delv  so only one delivery should be possible. Why is a second delivery created
+	Excel Id# 175 Roll# 9 : cannot create delivery for sales order
+	Excel Id# 227 Roll# 10 : Unable to create single delivery for multiple sales orders
+	Excel Id# 237 Roll# 11 : User can not create another Sales represantative for GB
+	Excel Id# 239 Roll# 12 : delivery dates are not determined correctly in sales order
+	Excel Id# 250 Roll# 13 : Why is delivery for sales order not getting created automatically
+	Excel Id# 262 Roll# 14 : Delivery got created with partial quantity though there is enough stock to fulfill the entire requirement from sales order
+	Excel Id# 282 Roll# 15 : sales order cannot be create due to dump
+	Excel Id# 303 Roll# 16 : why is sales order's delivery date falling on a Sunday
+	Excel Id# 317 Roll# 17 : Collective invoice is created for all delivery notes for same ship-to-party without considering sales order number
+cluster 21 :
+	Excel Id# 357 Roll# 0 : issue in the Unit of Measurement (UoM) wherein user asked as to why system captured the UoM as *** instead of PC which was maintained as the UoM in material master record.
+	Excel Id# 365 Roll# 1 : For the material 135285 stock in transfer values are not updated at table level MARC.
+	Excel Id# 370 Roll# 2 : Query why the stock of material after posting the Goods Receipt are not posted in Quality Inspection stock.  
+	Excel Id# 383 Roll# 3 : Currency set up for the material.
+	Excel Id# 401 Roll# 4 : User asked the reason for why PO is being picked for material no. while PIR is not maintained for plant where PO is being created
+	Excel Id# 404 Roll# 5 : User wanted to change the Valuation Class for a material but while doing so he was encountering an error message which read Valuation Class HAW not allowed for Material Type Standard Packaging.
+	Excel Id# 413 Roll# 6 : For some materials in plant 9510 the SMI Pipeline job is posting with wrong movement type and not picking up the assigned scheduling agreements. 
+cluster 22 :
+	Excel Id# 248 Roll# 0 : On cancelling document a new document gets created automatically
+	Excel Id# 256 Roll# 1 : Cannot create shipment using transaction VT04 using variant
+	Excel Id# 270 Roll# 2 : cannot create a new customer
+	Excel Id# 297 Roll# 3 : create a new PPE code
+	Excel Id# 347 Roll# 4 : Not able to create PO via TCode ZME2 
+	Excel Id# 354 Roll# 5 : Unable to create STO- technical description sheet missing 
+	Excel Id# 493 Roll# 6 : Unable to create PO -Error Customer does not exist (Please change entry in plant)
+cluster 23 :
+	Excel Id# 295 Roll# 0 : transaction WLFSLRL - settlement list for renumeration lists results in an update termination
+	Excel Id# 416 Roll# 1 : Stock display issue - Stock display differs in MMBE and MD04
+	Excel Id# 428 Roll# 2 : Transaction YM40 issue - Adding number of lines in YM40
+	Excel Id# 453 Roll# 3 : Stock Consumption issue - Stock from Unrestricted use got consumed for Production Order rather than the Consignment stock
+	Excel Id# 463 Roll# 4 : Scrapping issue - Scrapping under vendor stock was not happening with transaction MB1A
+	Excel Id# 471 Roll# 5 : Batch Management issue - Pop up of warning message for SLED while posting the GR
+	Excel Id# 473 Roll# 6 : PR to PO conversion issue in ZMEE - PR is not getting automatically converted to PO in ZMEE and is getting created for old vendor
+cluster 24 :
+	Excel Id# 92 Roll# 0 : We have more and more issues in plant S4AJ where we find partical CON in stock .and we have no clue where they are coming from
+	Excel Id# 136 Roll# 1 : Layout issue in transaction code
+	Excel Id# 252 Roll# 2 : issue when running programme ZNDR for a particular date range
+	Excel Id# 324 Roll# 3 : Nachstart Issue Consignment Job special run
+	Excel Id# 368 Roll# 4 : PO issue Wrong email notification maintained
+	Excel Id# 486 Roll# 5 : User had an issue wherein while creating an STO PO for the Document Type ZIC he was not getting Shipping tab determined in the PO
+	Excel Id# 491 Roll# 6 : Info Record Issue how effective price was computed by the system for the IDH 
+cluster 25 :
+	Excel Id# 98 Roll# 0 : unable to do the PGi and was recieving a error an item with no delivery qty is not permitted item will be deleted.
+	Excel Id# 333 Roll# 1 : Uable to create a Physical Inventory Document and encountering an error message which read Batch 1009929 SJHX 0001 NA does not exist.
+	Excel Id# 338 Roll# 2 : PIR condition error. Example IDH in which the JCV2 condition is not fetching any cost
+	Excel Id# 376 Roll# 3 : While converting PR to PO via transaction ME21N encountered an error message for Document Type which read Document Type ZXC should be used for Supplying Plant 5012 and Receiving Plant SJIG.
+	Excel Id# 402 Roll# 4 : User was getting an error that the pdf device does not exist in the system while maintaining the condition record.
+	Excel Id# 405 Roll# 5 : We found the quantity conversion is not consistent between PIR & MD. Pls help to correct quantity conversion error in PIR IDH 1998631 plant code5012 vendor528277 SAPP93.1SLU=24CON should be corrected to 1SLU=12CON.
+	Excel Id# 483 Roll# 6 : User was having an issue in creating delivery wherein he was getting an error message which read Essential Transfer Parameters are missing in the record 000001. 
+	Excel Id# 484 Roll# 7 : User was creating Delivery for Subcontracting process but was encountering an error message which read No Item Category Exists. 
+cluster 26 :
+	Excel Id# 90 Roll# 0 : The delivery split is happening while creating a single delivery with reference to order 1302420 and 1392726 using the transaction YVSD_305
+	Excel Id# 108 Roll# 1 : Delivery is complete for a stock transfer order however there are still open items when we use Tcode VL10D
+	Excel Id# 111 Roll# 2 : delivery has double quantities as ordered and customer is charged twice the amount
+	Excel Id# 148 Roll# 3 : Cannot create delivery for stock transfer order
+	Excel Id# 154 Roll# 4 : Order Combination flag should ensure that only one delivery and one invoice is created for customers/orders. This isn't working as expected
+	Excel Id# 148 Roll# 5 : Cannot create delivery for stock transfer order
+	Excel Id# 207 Roll# 6 : cannot create delivery for stock transfer order
+	Excel Id# 209 Roll# 7 : cannot find Stock transfer order in delivery creation transaction code
+	Excel Id# 211 Roll# 8 : Cannot create delivery due to GTS block in order
+cluster 27 :
+	Excel Id# 115 Roll# 0 : Return shipments for a plant is marked as completed even before the goods are physically returned into the warehouse and the GR posted
+	Excel Id# 378 Roll# 1 : why is there a wrong quantity calculation for the BOM components at the time of Goods Receipt posting
+	Excel Id# 407 Roll# 2 : User want to know the reason of getting message Price of goods movement will become negative while posting the GR 
+	Excel Id# 409 Roll# 3 : Goods Receipt posting - Under Delivery Tolerane is not working for STO PO (UB and ZXC) 
+	Excel Id# 415 Roll# 4 : Goods Receipt posting issue - Batch not getting copied from Inbound Delivery to MIGO transaction
+	Excel Id# 418 Roll# 5 : Goods Receipt reversal - Document does not contain any selectable items
+	Excel Id# 420 Roll# 6 : Goods Issue error - Entry XXXX for Company Code does not exist in table T169P
+	Excel Id# 422 Roll# 7 : Goods Receipt issue - Impact of Shelf Life on Goods Receipt
+	Excel Id# 423 Roll# 8 : Goods Receipt issue - Delivery cost is not posted along with the Goods Receipt
+	Excel Id# 443 Roll# 9 : Goods Receipt issue - PO does not contain any Selectable items
+	Excel Id# 446 Roll# 10 : Goods Receipt issue - Quantity in Stock-in-Transit to be rounded to the next whole number and then posting Goods Receipt
+	Excel Id# 447 Roll# 11 : Goods Receipt issue - No Goods Receipt possible for the PO XXXXXXXXXX
+	Excel Id# 449 Roll# 12 : STO Purchase Order closure issue - Goods Receipt for STO PO posted with Delivery / Goods issue and needs to be closed
+	Excel Id# 450 Roll# 13 : Goods Issue posting error - Update Control of Movement Type is incorrect (entry 641 X X _ L X U)
+	Excel Id# 451 Roll# 14 : Goods Receipt reversal issue - Unable to update Inbound Delivery since already distributed to Decentralized system
+	Excel Id# 456 Roll# 15 : Goods Receipt issue - Removal of Stock from in-Transit
+	Excel Id# 467 Roll# 16 : Goods Receipt issue - Value of Goods Receipt posted very high
+	Excel Id# 479 Roll# 17 : Unable to post Goods Receipt- Error Price of goods movement will become negative 
+	Excel Id# 492 Roll# 18 : Goods Receipt cancellation Issue- GI and GR Imbalanace
+cluster 28 :
+	Excel Id# 235 Roll# 0 : System throws a message - No Language specific unit (***) defined in language EN for internal unit BOT during order creation
+	Excel Id# 410 Roll# 1 : Purchase Order creation - Not possible to determine Shipping Data for the material
+	Excel Id# 419 Roll# 2 : Purchase order creation - Automatic PR to PO is not happening
+	Excel Id# 426 Roll# 3 : Purchase order creation - PO quantity is displaying with three(3) decimal places
+	Excel Id# 431 Roll# 4 : Purchase order creation - Automatic PR to PO is not happening in MD04
+	Excel Id# 432 Roll# 5 : Purchase order creation - Material not included in the source list despite Source List requirement
+	Excel Id# 437 Roll# 6 : Purchase Order transmission - Changing the transmission medium for Message Output
+	Excel Id# 464 Roll# 7 : STO Purchase Order creation - Document Type UB allows only Vendors with plant assignment
+cluster 29 :
+	Excel Id# 326 Roll# 0 : The Info record PO text and vendor mat. number is not reflecting in the purchase order printout
+	Excel Id# 340 Roll# 1 : Unable to delete the Purchase order  EM Net price greater than Zero.
+	Excel Id# 352 Roll# 2 : why the BOM component not automatically posted at the time of posting the Goods Receipt for Subcontracting Purchase Order
+	Excel Id# 364 Roll# 3 : condition type ZAP0 is not picking while creating the Purchase order.
+	Excel Id# 377 Roll# 4 : while adding a new line in the Purchase Order was encountering an error message which read Net Price must be greater than Zero. 
+	Excel Id# 399 Roll# 5 : Not able to do good receipt for the outbound delivery of return purchase orders (STO)
+	Excel Id# 485 Roll# 6 : not able to create the purchase order for material 93556Plant 3581 and vendor 143336 due to error No printer fonts maintained for ARCHIXOS.
+	Excel Id# 495 Roll# 7 : User is aking a Query that Quantity in Purchase Order Unit is captured as ZERO at the time of Goods Receipt posting.
